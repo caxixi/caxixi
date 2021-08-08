@@ -3,8 +3,3 @@
 - 🌱 I’m currently learning R, SAS, SQL, statistics, and clinical data. Also: Arabic, Chinese, Portuguese, Russian, and Yiddish. Also: Capoeira.
 - 💞️ I’m not currently looking to collaborate, but would be happy to hear input and thoughts.
 - 📫 Reach me at levin.gal@gmail.com
-
-<!---
-caxixi/caxixi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
