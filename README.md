@@ -4,4 +4,4 @@ Below are a few data analyses I’ve worked on. If you know of an interesting da
 You can reach me at levin.gal@gmail.com
 .
 
-About the username: Caxixi is a small woven basket filled with dry seeds, used as part of the percussion ensemble that accompanies Capoeira games. Capoeira is another long-standing passion..
+*About the username:* Caxixi is a small woven basket filled with dry seeds, used as part of the percussion ensemble that accompanies Capoeira games. Capoeira is another long-standing passion..
